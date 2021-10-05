@@ -1,13 +1,21 @@
 # LioQing
  
 Hi, I am a programming hobbyist.  
-Have been coding for ~4 years.
+Have been coding for ~4 years.  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LioQing&theme=omni&show_icons=true)
+
+---
 
 ### My Commonly Used Languages
 
-![c](assets/c_64x64.png)
 ![cpp](assets/cpp_64x64.png)
-![cs](assets/csharp_64x64.png)  
+![cs](assets/csharp_64x64.png)
+![c](assets/c_64x64.png)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LioQing&theme=omni)
+
+---
 
 ### My IDEs & Tools
 
