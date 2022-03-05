@@ -1,7 +1,6 @@
 # LioQing
  
-Hi, I am a programming hobbyist.  
-Have been coding for ~4 years.  
+Hi, I like programming.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LioQing&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
