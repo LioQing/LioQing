@@ -8,7 +8,7 @@ Hi, I like programming.
 
 ### My Commonly Used Languages
 
-<img height="72" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"><img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"><img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img height="72" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"><img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><img height="72" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png"><img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LioQing&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
