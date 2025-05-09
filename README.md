@@ -1,3 +1,5 @@
+![Lio Qing](https://github.com/user-attachments/assets/073d20b6-33f3-47f9-8652-d8295fea2aec)
+
 # <p align=center>Lio Qing</p>
  
 <p align="center">🏫 The University of Hong Kong</p>
