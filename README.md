@@ -2,11 +2,11 @@
 
 # <p align=center>Lio Qing</p>
  
-<p align="center">🏫 The University of Hong Kong</p>
+<p align="center">🏢 Software Engineer I at The Trade Desk</p>
 
-<p align="center">🎓 Bachelor of Engineer in Computer Science</p>
+<p align="center">🎓 Bachelor of Engineer in Computer Science at the University of Hong Kong</p>
 
-<p align="center">✨ Software Engineering, Graphics Design</p>
+<p align="center">✨ Web Development, Computer Graphics</p>
 
 <p align="center">🖊️ Chinese, English</p>
 
