@@ -24,17 +24,17 @@
 ### <p align="center">Computer Languages</p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,py,rust,cs,ts,haskell,java,html" alt="Computer Languages"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,py,rust,cs" alt="Computer Languages"/>
 </p>
 
 ### <p align="center">Software Development Technologies</p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,gcp,azure,aws,django,dotnet,wasm" alt="Software Development Technologies"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,dotnet,wasm" alt="Software Development Technologies"/>
 </p>
 
 ### <p align="center">Editing & Modelling Softwares</p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ps,ai,pr,blender" alt="Editing and Modelling Softwares"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai,pr,affinity,blender" alt="Editing and Modelling Softwares"/>
 </p>
