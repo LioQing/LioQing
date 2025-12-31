@@ -2,7 +2,7 @@
 
 # <p align=center>Lio Qing</p>
  
-<p align="center">🏢 Software Engineer I at The Trade Desk</p>
+<p align="center">🏢 Software Engineer at The Trade Desk</p>
 
 <p align="center">🎓 Bachelor of Engineer in Computer Science at the University of Hong Kong</p>
 
